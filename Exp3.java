@@ -22,7 +22,7 @@ class Exp3{
 
 
         System.out.println(15);
-        System.out.println("The value of a is = " +a);
+        System.out.println("The value of a is = " a);
 
     }
 }
